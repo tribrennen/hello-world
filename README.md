@@ -2,7 +2,7 @@
 Hello World test repository
 
 Testing GitHub as a configuration and version management system for **Comp 3521**. 
-Tests include 
+Tests include: 
 1. Creating a new repository
 2. Creating a new branch
 3. Commiting changes to the new branch
